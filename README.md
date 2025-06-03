@@ -10,11 +10,6 @@
 - Shows welcome message with username
 - Click "Logout" to forget the user
 
-## Files
-
-- localstorage.html - Main page with form
-- localstorage.css - Styles for the page
-- localstorage.js - Makes login work
 
 ## How to use
 
